@@ -1,5 +1,3 @@
-
-
 import 'package:todoapp/motivate.dart';
 import 'package:todoapp/password.dart';
 import 'package:flutter/material.dart';
